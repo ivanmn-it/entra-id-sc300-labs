@@ -77,7 +77,7 @@ Después volví a ponerle Ventas a `lab.user02` para que volviera a entrar, y es
 
 ## Qué me falló o me costó entender
 
-Esta vez el procedimiento fue fluido y no se me atascó nada. Lo que me llamó la atención:
+Esta vez el procedimiento fue fluído y no se me atascó nada. Lo que me llamó la atención:
 
 **Los tiempos no fueron iguales.** El grupo se llenó en segundos y `lab.user02` salió en segundos, pero cuando volví a ponerle Ventas tardó unos 4 minutos en entrar. No sé a qué se debe la diferencia, así que no doy por hecho que el procesamiento sea siempre inmediato.
 
