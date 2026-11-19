@@ -1,6 +1,6 @@
 # Laboratorios de Microsoft Entra ID (SC-300)
 
-Repositorio donde voy documentando las prácticas que hago en mi propio tenant de laboratorio mientras repaso y amplío lo que aprendí para la certificación **SC-300 (Microsoft Identity and Access Administrator)**, que aprobé en julio de 2026.
+Repositorio donde voy documentando las prácticas que hago en mi propio tenant de laboratorio mientras repaso y amplío lo que aprendí para la certificación **SC-300 (Microsoft Identity and Access Administrator)**, que aprobé en Julio de 2026.
 
 Trabajo en soporte desde backoffice y quiero dar el salto a un puesto de administración de identidades en remoto. Aquí dejo lo que voy haciendo, con sus pasos, sus capturas y también lo que me ha fallado por el camino.
 
