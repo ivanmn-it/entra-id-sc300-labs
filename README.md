@@ -12,7 +12,6 @@ Trabajo en soporte desde backoffice y quiero dar el salto a un puesto de adminis
 | [`02-autenticacion-acceso`](02-autenticacion-acceso/) | MFA, SSPR, Acceso condicional, Identity Protection |
 | [`03-aplicaciones`](03-aplicaciones/) | Registro de apps, aplicaciones empresariales, SSO, consentimiento |
 | [`04-gobernanza`](04-gobernanza/) | PIM, revisiones de acceso, gestión de derechos, términos de uso |
-| [`scripts`](scripts/) | Scripts de PowerShell con Microsoft Graph |
 | [`plantillas`](plantillas/) | Plantilla que uso para cada laboratorio |
 
 Cada laboratorio es un archivo `.md` dentro de su carpeta. Los índices de cada carpeta indican cuáles tengo hechos.
