@@ -28,6 +28,7 @@ Cada laboratorio es un archivo `.md` dentro de su carpeta. Los índices de cada 
 Voy marcando aquí a medida que los termino.
 
 - [x] [Usuarios, grupos y licencias por grupo](01-identidades/usuarios-grupos-licencias.md)
+- [x] [Grupos dinámicos por departamento](01-identidades/grupos-dinamicos.md)
 
 ## Contacto
 
