@@ -31,6 +31,7 @@ Voy marcando aquí a medida que los termino.
 - [x] [Grupos dinámicos por departamento](01-identidades/grupos-dinamicos.md)
 - [x] [Identidades externas (B2B)](01-identidades/identidades-externas-b2b.md)
 - [x] [Roles de administrador y mínimo privilegio](01-identidades/roles-administrador.md)
+- [x] [Restablecimiento de contraseña de autoservicio (SSPR)](02-autenticacion-acceso/sspr-restablecimiento-contrasena.md)
 
 ## Contacto
 
